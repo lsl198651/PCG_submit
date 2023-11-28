@@ -1,0 +1,15 @@
+/.vscode
+/Dockerfile
+/LICENSE
+/model
+/test_fold0.csv
+/test_fold1.csv
+/test_fold2.csv
+/test_fold3.csv
+/test_fold4.csv
+/train_fold0.csv
+/train_fold1.csv
+/train_fold2.csv
+/train_fold3.csv
+/train_fold4.csv
+/__pycache__
